@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BloodyMonkey
 - 👀 I’m interested in React Native and React.js
-- 🌱 I’m currently learning nothing :(
+- 🌱 I’m currently learning React new architechture
 - 💞️ I’m looking to collaborate on cool and/or useful projects 
 - 📫 How to reach me -> contact.richet.maxime@gmail.com
 
